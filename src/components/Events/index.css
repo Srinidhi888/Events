@@ -1,0 +1,19 @@
+/* Write your CSS here */
+ul {
+  list-style-type: none;
+}
+.grp {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px;
+  padding: 0px;
+}
+.box {
+  display: flex;
+}
+.inside-box {
+  padding: 30px;
+  background-color: #64748b;
+  width: 70%;
+  color: white;
+}
